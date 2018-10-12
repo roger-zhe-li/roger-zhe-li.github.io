@@ -7,18 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe (Roger) Li"
+title                    : "Lantao Yu"
 title_separator          : "-"
-name                     : &name "Zhe (Roger) Li"
-description              : &description "PhD candidate at the Multimedia Computing Group, TU Delft"
-url                      : https://roger-zhe-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lantao Yu"
+description              : &description "PhD student, Computer Science Department, Stanford University"
+url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "roger-zhe-li/roger-zhe-li.github.io"
+repository               : "LantaoYu/lantaoyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -49,16 +47,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -74,43 +72,43 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Zhe (Roger) Li"
-  avatar           : "profile.png"
-  bio              : "PhD candidate at the Multimedia Computing Group, TU Delft"
-  location         : "Delft, the Netherlands"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&pli=1&user=_GDQBHcAAAAJ"
-  email            : "Z.Li-9@tudelft.nl"
-  uri              :
+  name             : "Lantao Yu"
+  avatar           : "lantaoyu.jpg"
+  bio              : "PhD student, Computer Science Department, Stanford University"
+  location         : "Stanford, California"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
+  email            : "lantaoyu@hotmail.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "roger-zhe-li"
+  github           : "LantaoYu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zhe-roger-li-8110a810b/"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Zhe_Delft"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
@@ -239,7 +237,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -256,14 +254,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -304,3 +302,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-merlot
