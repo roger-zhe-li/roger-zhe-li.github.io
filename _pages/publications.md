@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My google scholar homepage is [here](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en).
+You can find my google scholar homepage [here](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
 
 Publications as main author
 ======
