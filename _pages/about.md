@@ -15,41 +15,19 @@ redirect_from:
 * My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
 
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposoium.
+* August 27 - August 31, 2018. I attended the 12th Russian Summer School in Information Retrieval (*RuSSIR'18*) and presented my preliminary results with a poster in Kazan, Russia. 
+* July 8, 2018. Doctoral symposium paper accepted by ACM Conference on Recommender Systems. See you in Vancouver!
+* September 3, 2017. I started my PhD at Delft University of Technology (TU Delft), the Netherlands.
+* July 25 - August 3, 2017. I attended the *2017 Duke-Tsinghua Machine Learning Summer School -- Deep Learning for Big Data* in Kunshan, China.
+* July 2017. I had a full research paper titled "Adaptive Ensemble Undersampling-Boost: a novel learning framework for imbalanced data" accepted by *Journal of Systems and Software*.
+* March 2017. I had a full research paper titled "A novel computer-aided diagnosis system for breast MRI based on feature selection and ensemble learning" accepted by *Computers in Biology and Medicine*.
+* February 2017. I joined [Sensetime Group](https://www.sensetime.com/) as an R&D intern in computational advertisement for the next 4 months.
+* June 2017. I joined [the National Laborotary of Pattern Recognition, China Academy of Sciences](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml) as a research intern in medical data mining for the next 3 months with 4 days per week.
+* March 2017. I joined [Toshiba Medical Systems China]（https://global.medical.canon/#）（now Canon Medical Systems） as an R&D intern in medical image algorithms for the next 6 months with 3 days per week.
+* June 2017. I joined [the National Laborotary of Pattern Recognition, China Academy of Sciences](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml) as a research intern in medical data mining for the next 3 months for 4  days per week.
+* November 2015. I had a paper (in Chinese) titled "Application of machine learning algorithms in breast tumor detection" accepted by *Computer Engineering and Science*.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
