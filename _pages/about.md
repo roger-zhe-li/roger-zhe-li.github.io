@@ -32,6 +32,6 @@ Recent News
 
 
 Miscellaneous
-------
+======
 
-During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 9 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hard core fan of Manchester United (though I have to say I am disappointed with their recent performance). <font color="#660000">Glory Glory Man United!</font><br /> 
+During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 9 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hard core fan of Manchester United (though I have to say I am disappointed with their recent performance). <font color="#dd0000">Glory Glory Man United!</font><br /> 
