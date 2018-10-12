@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-You can find my google scholar homepage [here](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
+You can find my google scholar homepage [<u>here</u>](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
 
 Publications as main author
 ======
