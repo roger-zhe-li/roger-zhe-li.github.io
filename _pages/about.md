@@ -15,7 +15,7 @@ redirect_from:
 * My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
 
 
-News
+Recent News
 ======
 * October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposoium.
 * August 27 - August 31, 2018. I attended the 12th Russian Summer School in Information Retrieval (*RuSSIR'18*) and presented my preliminary results with a poster in Kazan, Russia. 
@@ -31,3 +31,7 @@ News
 * November 2015. I had a paper (in Chinese) titled "Application of machine learning algorithms in breast tumor detection" accepted by *Computer Engineering and Science*.
 
 
+Miscellaneous
+------
+
+During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been in 9 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hard core fan of Manchester United (though I have to say I am disappointed with their recent performance). <font color="#660000">Glory Glory Man United!</font><br /> 
