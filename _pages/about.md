@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PhD candidate at the [Multimedia Computing Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing), [Delft University of Technology](https://www.tudelft.nl/en), working with [Dr. Julián Urbano](https://julian-urbano.info) and [Prof. Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/). My primary research goal is to provide fast, accurate, satisfying, and convincing recommendations to people in need by creating novel methods and algorithms about user modeling, content analysis and collaborative filtering. I am particularly interested in multi-criteria recommender systems and the application of deep learning in recommender systems. 
+* I am now a PhD candidate at the [Multimedia Computing Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing), [Delft University of Technology](https://www.tudelft.nl/en), working with [Dr. Julián Urbano](https://julian-urbano.info) and [Prof. Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/). My primary research goal is to provide fast, accurate, satisfying, and convincing recommendations to people in need by creating novel methods and algorithms about user modeling, content analysis and collaborative filtering. I am particularly interested in multi-criteria recommender systems and the application of deep learning in recommender systems. 
 
-I received my Master's degree with cum laude from [Tianjin University](http://www.tju.edu.cn/english), China in 2017. My master thesis was about computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu. Prior to that, I received my  B.E. degree from [Zhejiang University](http://www.zju.edu.cn/english/), China in 2014 under the supervision of Prof. Huimin Yu and Prof. Huiming Tang. 
+* I received my Master's degree with cum laude from [Tianjin University](http://www.tju.edu.cn/english), China in 2017. My master thesis was about computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu. Prior to that, I received my  B.E. degree from [Zhejiang University](http://www.zju.edu.cn/english/), China in 2014 under the supervision of Prof. Huimin Yu and Prof. Huiming Tang. 
 
-My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
+* My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
 
 
 A data-driven personal website
