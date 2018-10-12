@@ -12,11 +12,11 @@ ACM Conference on Recommender Systems, **RecSys'18** (Doctoral Symposium Paper)<
 
 <br/> Wei Lu, **Zhe Li**, Jinghui Chu, *Adaptive ensemble undersampling-boost: a novel learning framework for imbalanced data,* <br>
 Journal of Systems and Software, 2017, 132: 272-282. **(SCI, IF=2.401)**<br>
-\[[<u>pdf</u>]
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/JSS.pdf)\]
 
 <br/> Wei Lu, **Zhe Li**, Jinghui Chu, *Adaptive ensemble undersampling-boost: a novel learning framework for imbalanced data,* <br>
 Computers in Biology and Medicine, 2017, 83: 157-165. **(SCI, IF=2.115)**<br>
-\[[<u>pdf</u>]
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/CBM.pdf)\]
 
 
 
