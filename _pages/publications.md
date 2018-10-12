@@ -17,7 +17,7 @@ Journal of Systems and Software, 2017, 132: 272-282. **(SCI, IF=2.401)**<br>
 <br/>Wei Lu, **Zhe Li**, Jinghui Chu, *A novel computer-aided diagnosis system for breast MRI based on feature selection and ensemble learning,* 
 Computers in Biology and Medicine, 2017, 83: 157-165. **(SCI, IF=2.115)**<br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/CBM.pdf)\]
-<br/>**Zhe Li**, Wei Lu, Hang Min, Jinghui Chu, *Application of machine learning algorithms in breast tumor detection (in Chinese),* Computer Engineering & Science, 2016, 11: 2303-2309. **(CSCD core journal)** <br>
+<br/>**Zhe Li**, Wei Lu, Hang Min, Jinghui Chu, *Application of machine learning algorithms in breast tumor detection (in Chinese),* Computer Engineering & Science, 2016, 11: 2303-2309. **(CSCD Core Journal)** <br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/CES.pdf)\]
 
 
