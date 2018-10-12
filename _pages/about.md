@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am now a PhD candidate at the Multimedia Computing Group, Delft University of Technology, working with Dr. Julián Urbano and Prof. Alan Hanjalic. My primary research goal is to provide fast, accurate, satisfying, and convincing recommendations to people in need by creating novel methods and algorithms about user modeling, content analysis and collaborative filtering. I am particularly interested in multi-criteria recommender systems and the application of deep learning in recommender systems. 
+
+I received my Master's degree with cum laude from Tianjin University, China in 2017. My master thesis was about computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu. Prior to that, I received my  B.E. degree from Zhejiang University, China in 2014 under the supervision of Prof. Huimin Yu and Prof. Huiming Tang. 
+
 
 A data-driven personal website
 ======
