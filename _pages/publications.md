@@ -1,9 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
+
+
+<b>[Towards the next generation of multi-criteria recommender systems]</b> <br>
+ACM Conference on Recommender Systems, **RecSys'18** (Doctoral Symposium Paper)
+**Zhe Li**, <i> .</i>
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
