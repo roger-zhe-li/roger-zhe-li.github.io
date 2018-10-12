@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-<b>Towards the next generation of multi-criteria recommender systems</b> <br>
-**Zhe Li**, ACM Conference on Recommender Systems, **RecSys'18** (Doctoral Symposium Paper)<br>
+**Zhe Li**, *Towards the next generation of multi-criteria recommender systems*, ACM Conference on Recommender Systems, **RecSys'18** (Doctoral Symposium Paper)<br>
 \[pdf\]\[poster\]
 
 
