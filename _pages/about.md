@@ -12,7 +12,7 @@ I am now a PhD candidate at the [Multimedia Computing Group](https://www.tudelft
 
 I received my Master's degree with cum laude from [Tianjin University](http://www.tju.edu.cn/english), China in 2017. My master thesis was about computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu. Prior to that, I received my  B.E. degree from [Zhejiang University](http://www.zju.edu.cn/english/), China in 2014 under the supervision of Prof. Huimin Yu and Prof. Huiming Tang. 
 
-My up-to-date CV is available [here].
+My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
 
 
 A data-driven personal website
