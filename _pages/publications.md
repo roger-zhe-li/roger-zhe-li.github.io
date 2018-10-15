@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my google scholar homepage [<u>here</u>](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
+You can find my Google Scholar homepage [<u>here</u>](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
 
 Publications as main author
 ======
@@ -25,3 +25,6 @@ Computers in Biology and Medicine, 2017, 83: 157-165. **(SCI, IF=2.115)**<br>
 
 Publications as co-author
 ======
+<br/>Libao Yang, **Zhe Li**, Guan Luo, *MH-ARM: a Multi-mode and High-value Association Rule Mining Technique
+for Healthcare Data Analysis,* International Conference on Computational Science and Computational Intelligence (CSCI), 2016, 122-127.<br>
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/recsys18.pdf)\]
