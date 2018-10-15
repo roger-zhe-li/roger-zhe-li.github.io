@@ -28,3 +28,11 @@ Publications as co-author
 <br/>Libao Yang, **Zhe Li**, Guan Luo, *MH-ARM: a Multi-mode and High-value Association Rule Mining Technique
 for Healthcare Data Analysis,* International Conference on Computational Science and Computational Intelligence (CSCI), 2016, 122-127.<br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/MH-ARM.pdf)\]
+<br/>Jinghui Chu, Zerui Wu, Wei Lu, **Zhe Li**, *Breast Cancer Diagnosis System Based on Transfer Learning and Deep Convolutional Neural Networks,* Laser & Optoelectronics Progress， 2018, 55(8): 081001 <br>
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/LOP.pdf)\]
+<br/>Wei Lu, Weixian Deng, Jinghui Chu, **Zhe Li**, *Arrhythmia Classification Based on Feature Selection Method of S-transform,* Journal of Data Acquisition and Processing, 2018, 33(2): 306-316. <br>
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/JDAP.pdf)\]
+<br/>Jinghui Chu, Lili Lu, Wei Lu, **Zhe Li**,** *Journal of Frontiers of Computer Science and Technology,* Journal of Frontiers of Computer Science and Technology, 2017, 11(11): 1783-1791.<br>
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/fcst.pdf)\]
+<br/>Wei Lu, Qingwei Zhai, Jinghui Chu, **Zhe Li**, *Automated Detection of Diabetic Retinopathy Exudates in Color Fundus Images,* Opto-Electronic Engineering，2016, 43(12): 183-192 <br>
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/OEE.pdf)\]
