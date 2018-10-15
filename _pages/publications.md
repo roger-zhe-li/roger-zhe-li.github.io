@@ -27,4 +27,4 @@ Publications as co-author
 ======
 <br/>Libao Yang, **Zhe Li**, Guan Luo, *MH-ARM: a Multi-mode and High-value Association Rule Mining Technique
 for Healthcare Data Analysis,* International Conference on Computational Science and Computational Intelligence (CSCI), 2016, 122-127.<br>
-\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/recsys18.pdf)\]
+\[[<u>pdf</u>](https://roger-zhe-li.github.io/files/MH-ARM.pdf)\]
