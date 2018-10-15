@@ -7,7 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Contact
 
 Room 5.E420, Building 28,
 Multimedia Computing Group,
