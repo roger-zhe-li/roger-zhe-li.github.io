@@ -16,7 +16,7 @@ redirect_from:
 
 Recent News
 ======
-* October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposoium.
+* October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposium.
 * August 27 - August 31, 2018. I attended the 12th Russian Summer School in Information Retrieval (*RuSSIR'18*) and presented my preliminary results with a poster in Kazan, Russia. 
 * July 8, 2018. Doctoral symposium paper accepted by ACM Conference on Recommender Systems. See you in Vancouver!
 * September 3, 2017. I started my PhD at Delft University of Technology (TU Delft), the Netherlands.
@@ -33,4 +33,4 @@ Recent News
 Miscellaneous
 ======
 
-During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 9 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hard core fan of Manchester United (though I have to say I am disappointed with their recent performance). <font color="#dd0000">Glory Glory Man United!</font><br /> 
+During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 9 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hard core fan of Manchester United for more than 20 years. <font color="#dd0000">Glory Glory Man United!</font><br /> 
