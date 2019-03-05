@@ -25,7 +25,7 @@ Recent News
 * March 2017. I had a full research paper titled "A novel computer-aided diagnosis system for breast MRI based on feature selection and ensemble learning" accepted by *Computers in Biology and Medicine*.
 * February 2017. I joined [Sensetime Group](https://www.sensetime.com/) as an R&D intern in computational advertisement for the next 4 months.
 * June 2017. I joined [the National Laborotary of Pattern Recognition, China Academy of Sciences](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml) as a research intern in medical data mining for the next 3 months with 4 days per week.
-* March 2017. I joined [Toshiba Medical Systems China] (https://global.medical.canon/#) (now Canon Medical Systems） as an R&D intern in medical image algorithms for the next 6 months with 3 days per week.
+* March 2017. I joined [Toshiba Medical Systems China](https://global.medical.canon/#) (now Canon Medical Systems） as an R&D intern in medical image algorithms for the next 6 months with 3 days per week.
 * June 2017. I joined [the National Laborotary of Pattern Recognition, China Academy of Sciences](http://www.nlpr.ia.ac.cn/nlpren/EN/volumn/home.shtml) as a research intern in medical data mining for the next 3 months for 4  days per week.
 * November 2015. I had a paper (in Chinese) titled "Application of machine learning algorithms in breast tumor detection" accepted by *Computer Engineering and Science*.
 
