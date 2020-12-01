@@ -16,6 +16,7 @@ redirect_from:
 
 Recent News
 ======
+* October 16, 2020. "Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users" accepted to WSDM 2021.
 * October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposium.
 * August 27 - August 31, 2018. I attended the 12th Russian Summer School in Information Retrieval (*RuSSIR'18*) and presented my preliminary results with a poster in Kazan, Russia. 
 * July 8, 2018. Doctoral symposium paper accepted by ACM Conference on Recommender Systems. See you in Vancouver!
