@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe (Roger) Li"
+title                    : "Roger Zhe Li"
 title_separator          : "-"
-name                     : &name "Zhe (Roger) Li"
+name                     : &name "Roger Zhe Li"
 description              : &description "PhD candidate at the Multimedia Computing Group, TU Delft"
 url                      : https://roger-zhe-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
