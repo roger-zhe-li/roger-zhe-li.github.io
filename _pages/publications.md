@@ -7,11 +7,11 @@ author_profile: true
 
 You can find my Google Scholar homepage [<u>here</u>](https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en).
 
-Publications as the (de facto) first author
+Publications as the (*de facto*) first author
 ======
-<br\>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
+<br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
 The 14th ACM International Conference on Web Search and Data Mining, oral presentation at **WSDM'21**. Acceptance rate: **18.6%**. Oral presentation rate: **11.4%**<br>
-\[[<u>pdf</u>](\https://arxiv.org/abs/2102.01744)\]\[[<u>code</u>](\https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]
+\[[<u>pdf</u>](https://arxiv.org/abs/2102.01744)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]
 <br/>**Zhe Li**, *Towards the next generation of multi-criteria recommender systems,* <br> 
 ACM Conference on Recommender Systems, **RecSys'18** (Doctoral Symposium Paper)<br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/recsys18.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/poster_recsys18.pdf)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/DS.pdf)\]
