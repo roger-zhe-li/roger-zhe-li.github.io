@@ -12,15 +12,19 @@ Publications as the (*de facto*) first author
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
 Oral presentation full paper at **WSDM'21**. Acceptance rate: **18.6%**. Oral presentation rate: **11.4%**<br>
 \[[<u>pdf</u>](https://arxiv.org/pdf/2102.01744.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]
+<br/>
 <br/>**Zhe Li**, *Towards the next generation of multi-criteria recommender systems,* <br> 
 Doctoral Symposium, **RecSys'18**<br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/recsys18.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/poster_recsys18.pdf)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/DS.pdf)\]
+<br/>
 <br/>Wei Lu, **Zhe Li**, Jinghui Chu, *Adaptive ensemble undersampling-boost: a novel learning framework for imbalanced data,* 
 Journal of Systems and Software, 2017, 132: 272-282. <br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/JSS.pdf)\]
+<br/>
 <br/>Wei Lu, **Zhe Li**, Jinghui Chu, *A novel computer-aided diagnosis system for breast MRI based on feature selection and ensemble learning,* 
 Computers in Biology and Medicine, 2017, 83: 157-165.<br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/CBM.pdf)\]
+<br/>
 <br/>**Zhe Li**, Wei Lu, Hang Min, Jinghui Chu, *Application of machine learning algorithms in breast tumor detection (in Chinese),* Computer Engineering & Science, 2016, 11: 2303-2309.  <br>
 \[[<u>pdf</u>](https://roger-zhe-li.github.io/files/CES.pdf)\]
 
