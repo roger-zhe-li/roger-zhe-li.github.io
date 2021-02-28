@@ -11,7 +11,7 @@ Publications as the (*de facto*) first author
 ======
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
 Oral presentation full paper at **WSDM'21**. Acceptance rate: **18.6%**. Oral presentation rate: **11.4%**<br>
-\[[<u>pdf</u>](https://arxiv.org/pdf/2102.01744.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]
+\[[<u>pdf</u>](https://arxiv.org/pdf/2102.01744.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/wsdm_poster.pdf)\]
 <br/>
 <br/>**Zhe Li**, *Towards the next generation of multi-criteria recommender systems,* <br> 
 Doctoral Symposium, **RecSys'18**<br>
