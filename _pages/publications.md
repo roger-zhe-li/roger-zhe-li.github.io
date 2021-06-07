@@ -15,7 +15,7 @@ accepted as full paper at **SIGIR'21**. Acceptance rate: **21.0%**. <br>
 <br/>
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
 Oral presentation full paper at **WSDM'21**. Acceptance rate: **18.6%**. Oral presentation rate: **11.4%**<br>
-\[[<u>pdf</u>](https://dl.acm.org/doi/pdf/10.1145/3437963.3441769)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/wsdm_poster.pdf)\]
+\[[<u>pdf</u>](https://dl.acm.org/doi/pdf/10.1145/3437963.3441769)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/wsdm_poster.pdf)\][[<u>presentation video</u>](https://files.atypon.com/acm/6246b8d00024e523e32efaadd5a52018)]
 <br/>
 <br/>**Zhe Li**, *Towards the next generation of multi-criteria recommender systems,* <br> 
 Doctoral Symposium, **RecSys'18**<br>
