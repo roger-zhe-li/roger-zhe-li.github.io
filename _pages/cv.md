@@ -55,7 +55,7 @@ Professional Service
 
 Awards
 ======
-* Travel grant, RecSys'18, WSDM'21
+* Travel grant, RecSys'18, WSDM'21, SIGIR'21
 * China Scholarship Council four years scholarship, 2017-2021
 * Outstanding graduates, Tianjin University, 2017
 * First scholarship for outstanding Students, Tianjin University, 2016
