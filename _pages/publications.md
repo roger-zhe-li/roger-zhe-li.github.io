@@ -9,6 +9,10 @@ You can find my Google Scholar homepage [<u>here</u>](https://scholar.google.com
 
 Publications as the (*de facto*) first author
 ======
+<br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *New Insights into Metric Optimization for Ranking-based Recommendation,* <br>
+accepted as full paper at **SIGIR'21**. Acceptance rate: **21.0%**. <br>
+\[[<u>pdf</u>](https://arxiv.org/pdf/2106.02545.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/sigir21-newinsights)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/sigir_slides.pdf)\]\[[<u>video</u>](https://roger-zhe-li.github.io/files/sigir21_video.pdf)\]
+<br/>
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users,* <br>
 Oral presentation full paper at **WSDM'21**. Acceptance rate: **18.6%**. Oral presentation rate: **11.4%**<br>
 \[[<u>pdf</u>](https://arxiv.org/pdf/2102.01744.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/wsdm21-mainstream)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/wsdm_slides.pdf)\]\[[<u>poster</u>](https://roger-zhe-li.github.io/files/wsdm_poster.pdf)\]
