@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Information and Communication Engineering, Zhejiang University, 2014
 * M.S. in Information and Communication Engineering, Tianjin University, 2017
-* Ph.D in Computer Science, Delft University of Technology, 2021 (expected)
+* Ph.D in Computer Science, Delft University of Technology, 2022 (expected)
 
 Work experience
 ======
