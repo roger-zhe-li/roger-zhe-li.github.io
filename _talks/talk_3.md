@@ -1,13 +1,13 @@
 ---
-title: "Talk on Computer-aided detection and diagnosis"
+title: "Talk on Metric Optimization and Mainstream Bias Mitigation in Recommender Systems"
 collection: talks
 type: "Talk"
-permalink: /talks/casia
-venue: "Institute of Automation, Chinese Academy of Sciences"
-date: 2016-07-31
-location: "Beijing, China"
+permalink: /talks/tju
+venue: "Tianjin University, China"
+date: 2023-12-22
+location: "Tianjin China, China"
 ---
 
-A talk on my master research on breast cancer computer-aided detection and diagnosis.<br>
+A talk on my PhD research.<br>
 [[Slides]](http://roger-zhe-li.github.io/files/casia.pptx)
 
