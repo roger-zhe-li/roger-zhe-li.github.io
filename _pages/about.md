@@ -7,15 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-* I am now a PhD candidate at the [Multimedia Computing Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing), [Delft University of Technology](https://www.tudelft.nl/en), working with [Dr. Julián Urbano](https://julian-urbano.info) and [Prof. Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/). My primary research goal is to provide fast, accurate, satisfying, and convincing recommendations to people in need by creating novel methods and algorithms about user modeling, content analysis and collaborative filtering. I am particularly interested in the user fairness and application of deep learning in recommender systems. 
+* I am now a Senior Data Scientist/Product Owner at adidas Amsterdam, the Netherlands. With extensive (10 years) industrial work, research, and internship experience in multiple domains of data science, I have been doing different projects in recommender systems, computer vision, multi-modality, medical image/clinical record processing, and supply chain management.
+
+* I hold a PhD in Computer Science with a focus on recommender systems from the [Multimedia Computing Group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing), [Delft University of Technology](https://www.tudelft.nl/en) of TU Delft, the Netherlands, supervised by [Dr. Julián Urbano](https://julian-urbano.info) and [Prof. Alan Hanjalic](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/alan-hanjalic/). As a researcher I authored over 10 papers on recommender systems and machine learning. 
 
 * I received my Master's degree with cum laude from [Tianjin University](http://www.tju.edu.cn/english), China in 2017. My master thesis was about computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu. Prior to that, I received my  B.E. degree from [Zhejiang University](http://www.zju.edu.cn/english/), China in 2014 under the supervision of Prof. Huimin Yu and Prof. Huiming Tang. 
 
-* My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Zhe_Li.pdf).
+* My up-to-date CV is available [here](https://roger-zhe-li.github.io/files/Roger_CV.pdf).
 
 
 Recent News
 ======
+* December, 2023. PhD thesis abstract accepted to SIGIR Forum.
+* November 14, 2023. Thesis defended, PhDone!
+* Jun 2023, "Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning" accepted to ICTIR 2023 as a full paper.
 * April 14, 2021. "New Insights into Metric Optimization for Ranking-based Recommendation" accepted to SIGIR 2021 as a full paper.
 * October 16, 2020. "Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users" accepted to WSDM 2021.
 * October 2 - October 7, 2018. I attented the 12th ACM Conference on Recommender Systems (*RecSys'18*) in Vancouver, BC, Canana and presented my paper on the Doctoral Symposium.
@@ -35,4 +40,4 @@ Recent News
 Miscellaneous
 ======
 
-During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 14 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hardcore fan of Manchester United for more than 20 years. <font color="#dd0000">Glory Glory Man United!</font><br /> 
+During my leisure time, I love traveling and experiencing this amazing world. Up till now I have been to 15 different countries and this number will keep improving. I am also a good badminton and table tennis player. Besides, I am a hardcore fan of Manchester United for more than 20 years. <font color="#dd0000">Glory Glory Man United!</font><br /> 
