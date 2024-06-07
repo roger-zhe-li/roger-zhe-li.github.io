@@ -14,6 +14,4 @@ Hoogoorddreef 9A, <br>
 1101BA Amsterdam, <br>
 adidas International B.V. <br>
 
-
-Postcode: 2628 XE <br>
-Email: Z dot Li minus 9 at tudelft dot nl
+Email: zhe dot roger dot li at gmail dot nl
