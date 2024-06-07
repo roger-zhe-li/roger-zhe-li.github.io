@@ -50,15 +50,15 @@ Teaching experience
 
 Skills
 ======
-* Programming Languages: C, Matlab, Python, LATEX, Verilog HDL.
+* Programming Languages: Python, MATLAB, LATEX, Verilog HDL, C.
 * Research: Recommender systems, machine learning, deep learning, image processing, computer-aided diagnosis, pattern recognition, data mining, medical informatics, Tensorflow, PyTorch.
-* Basic knowledge: Natural language processing, computer vision, social computing, computer networks.
+* Industry: Natural Language Processing, Computer Vision, PySpark, DataBricks, AWS SageMaker.
 
 
 Professional Service
 ======
 * Student voluteer: RecSys'18, Vancouver, BC, Canada
-* Reviewer: IEEE Systems Journal
+* Reviewer: SIGIR, CIKM, ICTIR, TheWebConf, IEEE Systems Journal, Neurocomputing
 * Translator and translation reviewer for the Chinese version "Recommender Systems Handbook (2nd Edition)" (Ch. 22).
 * Subtitle translator: Coursera
 
@@ -66,8 +66,7 @@ Professional Service
 Awards
 ======
 * Travel grant, RecSys'18, WSDM'21, SIGIR'21
-* China Scholarship Council four years scholarship, 2017-2021
-* Outstanding graduates, Tianjin University, 2017
+* Outstanding graduates (cum laude), Tianjin University, 2017
 * First scholarship for outstanding Students, Tianjin University, 2016
 * Outstanding thesis for undergraduates, Zhejiang University, 2014
 
