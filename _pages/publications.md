@@ -9,6 +9,16 @@ You can find my Google Scholar homepage [<u>here</u>](https://scholar.google.com
 
 Publications as the (*de facto*) first author
 ======
+<br/>**Roger Zhe Li**, *Metric Optimization and Mainstream Bias Mitigation in Recommender Systems,* <br>
+PhD Thesis Abstract, SIGIR Forum 57(2): 26:1-26:2 (2023) <br>
+\[[<u>pdf</u>](https://dl.acm.org/doi/10.1145/3642979.3643010)\]
+<br/>
+
+<br/>**Roger Zhe Li**, *Metric Optimization and Mainstream Bias Mitigation in Recommender Systems,* <br>
+PhD Thesis, TU Delft, 2023 <br>
+\[[<u>pdf</u>](https://arxiv.org/abs/2311.06689)\]
+<br/>
+
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning,* <br>
 accepted as full paper at **ICTIR'23**. Acceptance rate: **41.0%**. <br>
 \[[<u>pdf</u>](https://dl.acm.org/doi/10.1145/3578337.3605134)\]\[[<u>code</u>](https://github.com/roger-zhe-li/ictir23-cost-sensitive)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/ictir23_slides.pdf)\]
