@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Advanced Analytics for Global Operations,
+Advanced Analytics for Global Operations <br>,
 Floor 4B, Atlas Africa Building<br>
 Hoogoorddreef 9A, <br>
 1101BA Amsterdam, <br>
