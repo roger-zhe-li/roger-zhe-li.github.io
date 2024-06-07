@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Roger Zhe Li"
 title_separator          : "-"
 name                     : &name "Roger Zhe Li"
-description              : &description "PhD candidate at the Multimedia Computing Group, TU Delft"
+description              : &description "Senior Data Scientist/Product Owner at adidas"
 url                      : https://roger-zhe-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roger-zhe-li/roger-zhe-li.github.io"
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Roger Zhe Li"
   avatar           : "zhe_li.jpg"
-  bio              : "PhD candidate at the Multimedia Computing Group, TU Delft"
-  location         : "Delft, the Netherlands"
+  bio              : "Senior Data Scientist/Product Owner at adidas"
+  location         : "Rijswijk, the Netherlands"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=_GDQBHcAAAAJ&hl=en"
-  email            : "Z.Li-9@tudelft.nl"
+  email            : "zhe.roger.li@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "zhe-roger-li-8110a810b"
+  linkedin         : "roger-zhe-li"
   orcid            : "https://orcid.org/0000-0002-8288-9952"
   pinterest        :
   soundcloud       :
