@@ -12,6 +12,7 @@ Publications as the (*de facto*) first author
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning,* <br>
 accepted as full paper at **ICTIR'23**. Acceptance rate: **41.0%**. <br>
 \[[<u>pdf</u>](https://dl.acm.org/doi/10.1145/3578337.3605134)\]\[[<u>code</u>](https://github.com/roger-zhe-li/ictir23-cost-sensitive)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/ictir23_slides.pdf)\]
+<br/>
 <br/>**Roger Zhe Li**, Julián Urbano, Alan Hanjalic, *New Insights into Metric Optimization for Ranking-based Recommendation,* <br>
 accepted as full paper at **SIGIR'21**. Acceptance rate: **21.0%**. <br>
 \[[<u>pdf</u>](https://arxiv.org/pdf/2106.02545.pdf)\]\[[<u>code</u>](https://github.com/roger-zhe-li/sigir21-newinsights)\]\[[<u>slides</u>](https://roger-zhe-li.github.io/files/sigir21_slides.pdf)\]\[[<u>presentation video</u>](https://files.atypon.com/acm/087f9ff147f8d3cf720c07fc1244d7c8)\]
