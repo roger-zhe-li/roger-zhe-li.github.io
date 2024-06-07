@@ -11,12 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.E. in Information and Communication Engineering, Zhejiang University, 2014
+* Ph.D in Computer Science, Delft University of Technology, 2023.
 * M.S. in Information and Communication Engineering, Tianjin University, 2017
-* Ph.D in Computer Science, Delft University of Technology, 2022 (expected)
+* B.E. in Information and Communication Engineering, Zhejiang University, 2014
+
 
 Work experience
 ======
+* Jan 2022 - Present: Senior Data Scientist/Product Owner/Computer Vision Data Science Team Lead.
+  * adidas, Amsterdam, the Netherlands
+  * Product visual feature (embedding) extracted based on self-supervised learning for over 800k adidas products. Feature performance improved by 9% in downstream tasks;
+  * GenAI topics on image style transfer: generate product images based on available design sketches. 60k+ images from future season items are generated based on GAN;
+  * PoC on stable diffusion-based text-to-image generation;
+  * Implemented the first cross-sell recommendation engine for adidas;
+  * Now working on container offloading optimization, part of the inbound logistics in supply chain optimization.
+    
+
 * March 2017 - July 2017: R&D intern in computational advertising
   * SenseTime Group, Beijing, China
   * Literature analysis in recommender systems
