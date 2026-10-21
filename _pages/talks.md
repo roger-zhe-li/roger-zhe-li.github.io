@@ -25,5 +25,5 @@ nav_order: 3
 
 - Invited industry talk on one-step generative recommendation and multi-modal semantic IDs, with Gonzalo Fiz Pontiveros. Industry Day, _ECIR 2026_, Delft, April 2026.
 - Invited talk at the Sponsor Symposium, with Alejandro Ariza Casabona. _RecSys 2025_, Prague, September 2025.
-- Tianjin University, December 2022.
+- Tianjin University, Tianjin, China, December 2022.
 - Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China, July 2016.
