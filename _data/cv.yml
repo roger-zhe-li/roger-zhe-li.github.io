@@ -2,7 +2,7 @@ cv:
   name: Roger Zhe Li
   label: Senior Research Scientist
   email: zhe.roger.li@gmail.com
-  location: Dublin, Ireland
+  location: Dublin, Ireland / Rijswijk, the Netherlands
   image: ""
   summary: Researcher working on recommender and advertising systems, with a decade of experience across industry and academia.
 
@@ -16,7 +16,7 @@ cv:
     Experience:
       - company: Huawei Ireland Research Center
         position: Senior Research Scientist
-        location: Dublin, Ireland
+        location: Dublin, Ireland / Rijswijk, the Netherlands
         start_date: 2024
         end_date: present
         summary: Research on recommendation and advertising systems, also serving as a tech lead.

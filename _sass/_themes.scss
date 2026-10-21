@@ -255,9 +255,9 @@ body::before {
   color: var(--global-theme-color);
 }
 
-.footer .container::before,
-footer .container::before {
-  content: "🌷 ";
+// Capitalize the about-page section headings (e.g. "News")
+.post article h2 a {
+  text-transform: capitalize;
 }
 
 // More breathing room between sections on the about page

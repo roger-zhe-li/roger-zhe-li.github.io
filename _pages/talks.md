@@ -15,13 +15,14 @@ nav_order: 3
 
 #### Conference presentations
 
-- **Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning.** _ICTIR 2023_, Taipei. [[slides]](/files/ictir23_slides.pdf)
-- **New Insights into Metric Optimization for Ranking-based Recommendation.** _SIGIR 2021_, online. [[slides]](/files/sigir21_slides.pdf) [[video]](https://files.atypon.com/acm/087f9ff147f8d3cf720c07fc1244d7c8)
-- **Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users.** Oral, _WSDM 2021_, online. [[slides]](/files/wsdm_slides.pdf) [[poster]](/files/wsdm_poster.pdf) [[video]](https://files.atypon.com/acm/6246b8d00024e523e32efaadd5a52018)
-- **Towards the Next Generation of Multi-Criteria Recommender Systems.** Doctoral Symposium, _RecSys 2018_, Vancouver. [[slides]](/files/DS.pdf) [[poster]](/files/poster_recsys18.pdf)
+- **Mitigating Mainstream Bias in Recommendation via Cost-sensitive Learning.** _ICTIR 2023_, Taipei.
+- **New Insights into Metric Optimization for Ranking-based Recommendation.** _SIGIR 2021_, online. [[video]](https://files.atypon.com/acm/087f9ff147f8d3cf720c07fc1244d7c8)
+- **Leave No User Behind: Towards Improving the Utility of Recommender Systems for Non-mainstream Users.** Oral, _WSDM 2021_, online. [[video]](https://files.atypon.com/acm/6246b8d00024e523e32efaadd5a52018)
+- **Towards the Next Generation of Multi-Criteria Recommender Systems.** Doctoral Symposium, _RecSys 2018_, Vancouver.
 - Poster presentation, _RuSSIR 2018_ (Russian Summer School in Information Retrieval), Kazan.
 
 #### Invited talks
 
-- Tianjin University, December 2022. [[slides]](/files/Talk_TJU_Dec22.pptx)
-- Institute of Automation, Chinese Academy of Sciences (CASIA). [[slides]](/files/casia.pptx)
+- Invited industry talk on one-step generative recommendation and multi-modal semantic IDs, with Gonzalo Fiz Pontiveros. Industry Day, _ECIR 2026_, Delft, April 2026.
+- Tianjin University, December 2022.
+- Institute of Automation, Chinese Academy of Sciences (CASIA).
