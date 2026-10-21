@@ -77,18 +77,12 @@ cv:
         end_date: 2014
 
     Awards:
+      - title: Distinguished PC Member
+        date: 2025
+        awarder: ACM RecSys 2025
       - title: Travel grants
         date: 2021
         awarder: RecSys 2018, WSDM 2021, SIGIR 2021
-      - title: Outstanding Graduate (cum laude)
-        date: 2017
-        awarder: Tianjin University
-      - title: First-class Scholarship for Outstanding Students
-        date: 2016
-        awarder: Tianjin University
-      - title: Outstanding Undergraduate Thesis
-        date: 2014
-        awarder: Zhejiang University
 
     Skills:
       - name: Research
