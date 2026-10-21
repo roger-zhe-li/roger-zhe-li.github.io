@@ -284,3 +284,22 @@ a em,
 a i {
   color: inherit;
 }
+
+// CV: widen the date column and let long locations wrap instead of overlapping
+@media (min-width: 768px) {
+  .list-group-item > .row > .date-column {
+    flex: 0 0 24%;
+    max-width: 24%;
+  }
+
+  .list-group-item > .row > .date-column + div {
+    flex: 0 0 76%;
+    max-width: 76%;
+  }
+}
+
+.date-column p.location {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.3;
+}
