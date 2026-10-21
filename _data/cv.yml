@@ -1,8 +1,10 @@
 cv:
   name: Roger Zhe Li
-  label: Senior Research Scientist
-  email: zhe.roger.li@gmail.com
-  location: Dublin, Ireland / Rijswijk, the Netherlands
+  email: zhe.roger.li [at] gmail [dot] com
+  address:
+    street: Huawei Ireland Research Center, Georges Court, Townsend Street
+    city: Dublin 2, D02 R156
+    region: Ireland
   image: ""
   summary: Researcher working on recommender and advertising systems, with a decade of experience across industry and academia.
 

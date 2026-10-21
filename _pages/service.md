@@ -22,7 +22,3 @@ nav_order: 4
 - Student volunteer, RecSys 2018, Vancouver.
 - Translator and translation reviewer for the Chinese edition of the _Recommender Systems Handbook_ (2nd ed., Ch. 22).
 
-#### Supervision
-
-- Fenglu Xu, MSc thesis on GAN-based video captioning, TU Delft, 2018–2019 (with Julián Urbano).
-- Kaan Yilmaz, Jelle Vos and Tim Rietveld, BSc seminar on RNN-based recommender systems, TU Delft, 2018 (with Julián Urbano).

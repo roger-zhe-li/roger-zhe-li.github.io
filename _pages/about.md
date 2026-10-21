@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Dublin, Ireland / Rijswijk, the Netherlands</p>
+    <p>Dublin, Ireland</p>
+    <p>Rijswijk, the Netherlands</p>
 
 selected_papers: false
 social: false

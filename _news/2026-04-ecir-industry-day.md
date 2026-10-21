@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited speaker at the **ECIR 2026** Industry Day in Delft, sharing our industrial experience with multi-modal semantic IDs.
+Invited speaker at the **ECIR 2026** Industry Day in Delft.

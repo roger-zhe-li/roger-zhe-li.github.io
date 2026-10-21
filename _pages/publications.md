@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-For citation counts, see my [Google Scholar profile](https://scholar.google.com/citations?user=_GDQBHcAAAAJ).
+For a full list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=_GDQBHcAAAAJ).
 
 <div class="publications">
 
