@@ -259,3 +259,28 @@ body::before {
 footer .container::before {
   content: "🌷 ";
 }
+
+// More breathing room between sections on the about page
+.post article {
+  h2 {
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  h4 {
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+  }
+
+  p + p > strong:only-child,
+  ul + p > strong:only-child {
+    display: inline-block;
+    margin-top: 0.75rem;
+  }
+}
+
+// Italic titles inside links keep the link color
+a em,
+a i {
+  color: inherit;
+}

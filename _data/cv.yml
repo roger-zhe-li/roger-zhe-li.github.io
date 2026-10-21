@@ -21,7 +21,7 @@ cv:
         end_date: present
         summary: Research on recommendation and advertising systems, also serving as a tech lead.
         highlights:
-          - Semantic IDs and generative recommendation, with collaborators at University College Dublin.
+          - Semantic ID construction and semantic ID features in retrieval-based ranking systems.
           - Privacy-aware and feature-constrained ad ranking, including cloud–device collaborative models.
           - Co-presenter of the CIKM 2026 tutorial on semantic IDs; co-organizer of the IDEA workshop at The Web Conference 2027.
 
