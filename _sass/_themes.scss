@@ -1,0 +1,261 @@
+/*******************************************************************************
+ * Themes
+ ******************************************************************************/
+@use "variables" as v;
+@use "sass:color";
+
+:root {
+  color-scheme: light;
+  // Dutch orange palette (light): cream-orange page, burnt-orange accents
+  --global-bg-color: #ffeedd;
+  --global-code-bg-color: rgba(180, 68, 10, 0.08);
+  --global-text-color: #2b1a10;
+  --global-text-color-light: #7a4f33;
+  --global-theme-color: #b4440a;
+  --global-hover-color: #b4440a;
+  --global-hover-text-color: #ffffff;
+  --global-footer-bg-color: #b4440a;
+  --global-footer-text-color: #ffe3cc;
+  --global-footer-link-color: #ffffff;
+  --global-distill-app-color: #7a4f33;
+  --global-divider-color: rgba(180, 68, 10, 0.18);
+  --global-card-bg-color: #fff6ec;
+  --global-highlight-color: #ae1c28;
+  --global-back-to-top-bg-color: rgba(180, 68, 10, 0.75);
+  --global-back-to-top-text-color: #ffffff;
+  --global-newsletter-bg-color: #fff6ec;
+  --global-newsletter-text-color: #2b1a10;
+  --dutch-red: #ae1c28;
+  --dutch-white: #ffffff;
+  --dutch-blue: #21468b;
+  --dutch-windmill: url("/assets/img/windmill-light.svg");
+
+  --global-tip-block: #42b983;
+  --global-tip-block-bg: #e2f5ec;
+  --global-tip-block-text: #215d42;
+  --global-tip-block-title: #359469;
+  --global-warning-block: #e7c000;
+  --global-warning-block-bg: #fff8d8;
+  --global-warning-block-text: #6b5900;
+  --global-warning-block-title: #b29400;
+  --global-danger-block: #c00;
+  --global-danger-block-bg: #ffe0e0;
+  --global-danger-block-text: #600;
+  --global-danger-block-title: #c00;
+
+  #light-toggle-system {
+    display: inline-block;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  .only-light {
+    display: block;
+  }
+
+  .only-dark {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+    bottom: v.$back-to-top-bottom;
+    right: v.$back-to-top-right;
+    height: v.$back-to-top-height;
+    width: v.$back-to-top-width;
+    z-index: v.$back-to-top-z-index;
+  }
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+  // Dutch orange palette (dark): deep orange-brown page, bright oranje accents
+  --global-bg-color: #2a160a;
+  --global-code-bg-color: #3a1f0e;
+  --global-text-color: #fbeadb;
+  --global-text-color-light: #c9a386;
+  --global-theme-color: #ff8a3d;
+  --global-hover-color: #ff8a3d;
+  --global-hover-text-color: #2a160a;
+  --global-footer-bg-color: #170b04;
+  --global-footer-text-color: #f6d3b6;
+  --global-footer-link-color: #ff8a3d;
+  --global-distill-app-color: #c9a386;
+  --global-divider-color: rgba(255, 138, 61, 0.22);
+  --global-card-bg-color: #3a1f0e;
+  --global-highlight-color: #ff6b6b;
+  --global-back-to-top-bg-color: rgba(255, 138, 61, 0.8);
+  --global-back-to-top-text-color: #2a160a;
+  --global-newsletter-bg-color: #3a1f0e;
+  --global-newsletter-text-color: #fbeadb;
+  --dutch-windmill: url("/assets/img/windmill-dark.svg");
+
+  --global-tip-block: #42b983;
+  --global-tip-block-bg: #215d42;
+  --global-tip-block-text: #beffe2;
+  --global-tip-block-title: #e2f5ec;
+  --global-warning-block: #e7c000;
+  --global-warning-block-bg: #6b5900;
+  --global-warning-block-text: #fff2af;
+  --global-warning-block-title: #fff8d8;
+  --global-danger-block: #c00;
+  --global-danger-block-bg: #600;
+  --global-danger-block-text: #ffb9b9;
+  --global-danger-block-title: #ffe0e0;
+
+  .only-light {
+    display: none;
+  }
+
+  .only-dark {
+    display: block;
+  }
+}
+
+html[data-theme-setting="dark"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    display: inline-block;
+  }
+
+  #light-toggle-light {
+    display: none;
+  }
+
+  #back-to-top {
+    color: var(--global-back-to-top-text-color);
+    background: var(--global-back-to-top-bg-color);
+  }
+}
+
+html[data-theme-setting="light"] {
+  #light-toggle-system {
+    display: none;
+  }
+
+  #light-toggle-dark {
+    display: none;
+  }
+
+  #light-toggle-light {
+    display: inline-block;
+  }
+}
+
+.fa-half-sun-moon {
+  position: relative;
+  display: inline-block;
+
+  --fa-font: var(--fa-font-solid);
+  speak: none;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  width: 1em;
+  height: 1em;
+}
+
+.fa-half-sun-moon::before,
+.fa-half-sun-moon::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  top: -0.5px;
+  bottom: -0.5px;
+  text-align: center;
+  line-height: 1em;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  font: var(--fa-font);
+}
+
+/* Left half: MOON */
+.fa-half-sun-moon::before {
+  content: "\f111";
+  color: var(--global-text-color);
+  clip-path: polygon(0 0, calc(50% - 0.5px) 0, calc(50% - 0.5px) 100%, 0 100%);
+}
+
+/* Right half: SUN */
+.fa-half-sun-moon::after {
+  content: "\f185";
+  color: var(--global-text-color);
+  clip-path: polygon(calc(50% + 0.5px) 0, 100% 0, 100% 100%, calc(50% + 0.5px) 100%);
+  right: -1.5px; /* slight overflow to avoid right-edge clipping */
+  transform: translateX(-1px); /* visually re-center the sun half */
+}
+
+#light-toggle:hover .fa-half-sun-moon::before {
+  color: var(--global-theme-color);
+}
+
+#light-toggle:hover .fa-half-sun-moon::after {
+  color: var(--global-theme-color);
+}
+
+/*******************************************************************************
+ * Dutch touches
+ ******************************************************************************/
+
+// Thin tricolour band (red, white, blue) under the navbar
+#navbar {
+  border-bottom: none;
+  box-shadow: none;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -6px;
+    height: 6px;
+    background: linear-gradient(
+      to bottom,
+      var(--dutch-red) 0 33.3%,
+      var(--dutch-white) 33.3% 66.6%,
+      var(--dutch-blue) 66.6% 100%
+    );
+  }
+}
+
+// Faint windmill line drawing in the bottom-left corner
+body::before {
+  content: "";
+  position: fixed;
+  left: 2vw;
+  bottom: 3rem;
+  width: 180px;
+  height: 234px;
+  background: var(--dutch-windmill) no-repeat center / contain;
+  opacity: 0.12;
+  pointer-events: none;
+  z-index: 0;
+}
+
+@media (max-width: 1100px) {
+  body::before {
+    display: none;
+  }
+}
+
+// Page title in oranje
+.post-title {
+  color: var(--global-theme-color);
+}
+
+.footer .container::before,
+footer .container::before {
+  content: "🌷 ";
+}

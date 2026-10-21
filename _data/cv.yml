@@ -1,0 +1,103 @@
+cv:
+  name: Roger Zhe Li
+  label: Senior Research Scientist
+  email: zhe.roger.li@gmail.com
+  location: Dublin, Ireland
+  image: ""
+  summary: Researcher working on recommender and advertising systems, with a decade of experience across industry and academia.
+
+  social_networks:
+    - network: GitHub
+      username: roger-zhe-li
+    - network: LinkedIn
+      username: roger-zhe-li
+
+  sections:
+    Experience:
+      - company: Huawei Ireland Research Center
+        position: Senior Research Scientist
+        location: Dublin, Ireland
+        start_date: 2024
+        end_date: present
+        summary: Research on recommendation and advertising systems, also serving as a tech lead.
+        highlights:
+          - Semantic IDs and generative recommendation, with collaborators at University College Dublin.
+          - Privacy-aware and feature-constrained ad ranking, including cloud–device collaborative models.
+          - Co-presenter of the CIKM 2026 tutorial on semantic IDs; co-organizer of the IDEA workshop at The Web Conference 2027.
+
+      - company: adidas
+        position: Senior Data Scientist / Product Owner, Computer Vision Data Science Team Lead
+        location: Amsterdam, the Netherlands
+        start_date: 2022
+        end_date: 2024
+        highlights:
+          - Self-supervised visual embeddings for 800k+ products, improving downstream tasks by 9%.
+          - Generative AI for product imagery, from GAN-based sketch-to-image generation to text-to-image prototypes.
+          - Built the first cross-sell recommendation engine at adidas.
+          - Container offloading optimization for inbound supply-chain logistics.
+
+      - company: SenseTime Group
+        position: R&D Intern, Computational Advertising
+        location: Beijing, China
+        start_date: 2017-03
+        end_date: 2017-07
+
+      - company: Institute of Automation, Chinese Academy of Sciences
+        position: Student Research Intern, Medical Data Mining
+        location: Beijing, China
+        start_date: 2016-06
+        end_date: 2016-12
+
+      - company: Toshiba Medical Systems China (now Canon Medical Systems)
+        position: R&D Intern, Medical Image Analysis
+        location: Beijing, China
+        start_date: 2016-03
+        end_date: 2016-09
+
+    Education:
+      - institution: Delft University of Technology
+        location: Delft, the Netherlands
+        url: https://www.tudelft.nl/en
+        area: Computer Science
+        studyType: PhD
+        start_date: 2017-09
+        end_date: 2023-11
+        highlights:
+          - "Thesis: Metric Optimization and Mainstream Bias Mitigation in Recommender Systems."
+          - Supervised by Dr. Julián Urbano and Prof. Alan Hanjalic.
+
+      - institution: Tianjin University
+        location: Tianjin, China
+        area: Information and Communication Engineering
+        studyType: MSc (cum laude)
+        start_date: 2014
+        end_date: 2017
+        highlights:
+          - Thesis on computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu.
+
+      - institution: Zhejiang University
+        location: Hangzhou, China
+        area: Information and Communication Engineering
+        studyType: BEng
+        start_date: 2010
+        end_date: 2014
+
+    Awards:
+      - title: Travel grants
+        date: 2021
+        awarder: RecSys 2018, WSDM 2021, SIGIR 2021
+      - title: Outstanding Graduate (cum laude)
+        date: 2017
+        awarder: Tianjin University
+      - title: First-class Scholarship for Outstanding Students
+        date: 2016
+        awarder: Tianjin University
+      - title: Outstanding Undergraduate Thesis
+        date: 2014
+        awarder: Zhejiang University
+
+    Skills:
+      - name: Research
+        keywords: "Recommender systems, information retrieval, computational advertising, computer vision, generative AI"
+      - name: Engineering
+        keywords: "Python, PyTorch, TensorFlow, PySpark, Databricks, AWS SageMaker"
