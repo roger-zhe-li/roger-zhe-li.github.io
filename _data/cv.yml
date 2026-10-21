@@ -20,7 +20,7 @@ cv:
     Experience:
       - company: Huawei Ireland Research Center
         position: Senior Research Scientist, Tech Lead
-        location: Dublin, Ireland
+        location: Dublin, IE
         start_date: 2024
         end_date: present
 
@@ -32,19 +32,19 @@ cv:
 
       - company: SenseTime Group
         position: R&D Intern, Computational Advertising
-        location: Beijing, China
+        location: Beijing, CN
         start_date: 2017-03
         end_date: 2017-07
 
       - company: Institute of Automation, Chinese Academy of Sciences
         position: Student Research Intern, Medical Data Mining
-        location: Beijing, China
+        location: Beijing, CN
         start_date: 2016-06
         end_date: 2016-12
 
       - company: Toshiba Medical Systems China (now Canon Medical Systems)
         position: R&D Intern, Medical Image Analysis
-        location: Beijing, China
+        location: Beijing, CN
         start_date: 2016-03
         end_date: 2016-09
 
@@ -61,7 +61,7 @@ cv:
           - Supervised by Dr. Julián Urbano and Prof. Alan Hanjalic.
 
       - institution: Tianjin University
-        location: Tianjin, China
+        location: Tianjin, CN
         area: Information and Communication Engineering
         studyType: MSc (cum laude)
         start_date: 2014
@@ -70,7 +70,7 @@ cv:
           - Thesis on computer-aided diagnosis of breast cancer MR images, supervised by Prof. Wei Lu.
 
       - institution: Zhejiang University
-        location: Hangzhou, China
+        location: Hangzhou, CN
         area: Information and Communication Engineering
         studyType: BEng
         start_date: 2010
