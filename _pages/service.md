@@ -16,12 +16,12 @@ nav_order: 4
 
 - SIGIR 2022–2026
 - The Web Conference (WWW) 2023, 2026
-- CIKM 2024–2025
-- RecSys 2025 (Distinguished PC Member)
-- SIGIR-AP 2025
+- CIKM 2024–2026
+- RecSys 2025–2026 (Distinguished PC Member, 2025)
+- SIGIR-AP 2025–2026
 - WSDM 2026
 - ECIR 2026
-- ICTIR 2023
+- ICTIR 2023, 2026
 
 #### Journal reviewing
 
