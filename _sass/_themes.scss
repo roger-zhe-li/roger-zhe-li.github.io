@@ -303,3 +303,17 @@ a i {
   overflow-wrap: anywhere;
   line-height: 1.3;
 }
+
+// CV: left-align date badges and locations so every entry lines up
+.date-column {
+  text-align: left;
+
+  .table-cv {
+    margin-left: 0;
+  }
+
+  .badge {
+    min-width: 6.5rem !important;
+    text-align: center;
+  }
+}

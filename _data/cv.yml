@@ -26,7 +26,7 @@ cv:
 
       - company: adidas
         position: Senior Data Scientist / Product Owner, Computer Vision
-        location: Amsterdam, the Netherlands
+        location: Amsterdam, NL
         start_date: 2022
         end_date: 2024
 
@@ -50,12 +50,12 @@ cv:
 
     Education:
       - institution: Delft University of Technology
-        location: Delft, the Netherlands
+        location: Delft, NL
         url: https://www.tudelft.nl/en
         area: Computer Science
         studyType: PhD
-        start_date: 2017-09
-        end_date: 2023-11
+        start_date: 2017
+        end_date: 2022
         highlights:
           - "Thesis: Metric Optimization and Mainstream Bias Mitigation in Recommender Systems."
           - Supervised by Dr. Julián Urbano and Prof. Alan Hanjalic.
